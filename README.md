@@ -8,8 +8,7 @@
  <li>status bar shows different status according to if music is playing/stopped/resumed/muted/paused</li>
 and much more features
 
-<img width="590" alt="Screenshot 2019-05-26 at 8 58 59 AM" src="1.png">
-<img width="591" alt="Screenshot 2019-05-26 at 9 13 39 AM" src="2.png">
-<img width="589" alt="Screenshot 2019-05-26 at 9 14 50 AM" src="3.png">
-<img width="591" alt="Screenshot 2019-05-26 at 9 15 08 AM" src="4.png">
-
+<img src="images/1.png" height=600 width =600>
+<img src="images/2.png" height=600 width =600>
+<img src="images/3.png" height=600 width =600>
+<img src="images/4.png" height=600 width =600>
